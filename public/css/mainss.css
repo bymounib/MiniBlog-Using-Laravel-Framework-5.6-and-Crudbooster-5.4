@@ -1,0 +1,18 @@
+form{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	padding-right: 40px;
+	padding-left: 40px;
+	background: rgba(255,255,255, 0.7);
+	
+	
+}
+body{
+	background-color: #4863A0
+}
+
+.btn-primary{
+	width: 100%;
+}
