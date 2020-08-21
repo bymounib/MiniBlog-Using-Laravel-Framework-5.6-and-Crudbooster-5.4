@@ -10,7 +10,7 @@ You can check the demo on YouTube :
 - Go to the folder application using cd
 - Run composer install
 - Run copy .env.example .env and change the database name
-- Upload the database in phpmyadmin from ..
+- Upload the database in phpmyadmin from public/database/blog.sql
 - Run php artisan key:generate
 - Run php artisan serve 
 
