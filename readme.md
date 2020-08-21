@@ -36,7 +36,7 @@ You can check the demo on YouTube :
 
 ![](public/images/screenshots/9.png)
 
-## Smart devices vue :
+## Small devices vue :
 
 ![](public/images/screenshots/mob1.png)
 
