@@ -3,8 +3,6 @@
 ## About
 This project was made during a summer internship within [Dev Tweaks](https://www.devtweaks.com/) development agency , using Laravel 5.6 and Crudbooster 5.4.
 
-You can check the demo on YouTube :
-
 ## How to run the project :
 - Download or clone project
 - Go to the folder application using cd
